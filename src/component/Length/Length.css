@@ -1,0 +1,8 @@
+.length {
+    display: flex;
+    flex-direction: column;
+}
+
+.formatIcon {
+    display: flex;
+}
